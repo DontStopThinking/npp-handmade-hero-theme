@@ -429,7 +429,7 @@ Last Updated:
         <WidgetStyle name="Global override" styleID="0" fgColor="A08563" bgColor="161616" fontName="Consolas" fontStyle="0" fontSize="12" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="A08563" bgColor="161616" fontName="Consolas" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="A08563" bgColor="161616" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="703419" bgColor="703419" fontName="" fontStyle="1" fontSize="10" />
+        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="A08563" bgColor="703419" fontName="" fontStyle="1" fontSize="10" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="A08563" bgColor="6B8E23" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="121E12" fgColor="A08563" fontSize="" fontStyle="0" />
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="703419" fgColor="A08563" fontStyle="0" />
